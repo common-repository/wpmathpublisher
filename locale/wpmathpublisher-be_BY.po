@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WpMathPublisher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-09 21:52+0100\n"
+"PO-Revision-Date: 2010-03-22 21:33+0300\n"
+"Last-Translator: FatCow <zhr@tut.by>\n"
+"Language-Team: Marcis <by.marcis@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: E:/Users/Astrodan/Desktop/plugin/\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./..\n"
+
+# @ wpmathpublisher
+#: ../wpmathpublisher.php:102
+msgid "WpMathPublisher"
+msgstr "WpMathPublisher"
+
+# @ wpmathpublisher
+#: ../wpmathpublisher.php:112
+msgid "WpMathPublisher not yet ready: "
+msgstr "WpMathPublisher яшчэ не гатовы:"
+
+#: ../wpmathpublisher.php:112
+#, php-format
+msgid "Couldn't access image directory [%s], create it and chmod it to 777."
+msgstr "Не атрымалася атрымаць доступ да каталога малюнкаў [%s], стварыце яго і зменіце chmod на 777."
+
+#: ../wpmathpublisher.php:182
+msgid "invalid color value"
+msgstr "няправільнае каляровае значэнне"
+
+# @ wpmathpublisher
+#: ../wpmathpublisher.php:184
+msgid "transparency value is invalid"
+msgstr "значэнне празрыстасці няправільнае"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:9
+msgid "Options resetted to default values"
+msgstr "Функцыі скінуты да значэнняў па змаўчанні"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:16
+msgid "Cache cleared"
+msgstr "Кэш вычышчаны"
+
+#: ../inc/admin_themePage.php:26
+#, php-format
+msgid "Font size must be between %1$d and %2$d"
+msgstr "Памер шрыфта павінен быць паміж %1$d і %2$d"
+
+#: ../inc/admin_themePage.php:28
+msgid "Font:"
+msgstr "Шрыфт:"
+
+#: ../inc/admin_themePage.php:29
+msgid "Back:"
+msgstr "Назад:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:30
+msgid "Options:"
+msgstr "Налады:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:35
+msgid "Update not successfull:"
+msgstr "Абноўлена не цалкам:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:38
+msgid "Options saved"
+msgstr "Налады захаваны"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:54
+msgid "WpMathPublisher Design"
+msgstr "WpMathPublisher дызайн"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:58
+msgid "Save"
+msgstr "Захаваць"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:60
+msgid "Information:"
+msgstr "Інфармацыя:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:62
+msgid "Allowed transparency range is from 0 (opaque) to 127 (transparent)"
+msgstr "Дапушчальны дыяпазон празрыстасці ад 0 (непразрысты) да 127 (празрысты)"
+
+#: ../inc/admin_themePage.php:64
+msgid "Default image will look like this:"
+msgstr "Па змаўчанні малюнак будзе выглядаць наступным чынам:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:67
+msgid "Reset to defaults"
+msgstr "Скінуць да пачатковых"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:69
+msgid "Font color"
+msgstr "Колер шрыфта"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:72
+#: ../inc/admin_themePage.php:82
+msgid "RGB-Value:"
+msgstr "RGB-значэнне:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:75
+#: ../inc/admin_themePage.php:85
+msgid "Transparency:"
+msgstr "Празрыстасць:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:79
+msgid "Background color"
+msgstr "Колер фону"
+
+#: ../inc/admin_themePage.php:89
+msgid "Font Options"
+msgstr "Налады шрыфта"
+
+#: ../inc/admin_themePage.php:92
+msgid "Font size:"
+msgstr "Памер шрыфта:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:92
+#, php-format
+msgid "Allowed range: %1$d to %2$d"
+msgstr "Дапушчальныя значэнні: %1$d да %2$d"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:98
+msgid "Save Changes"
+msgstr "Захаваць змены"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:100
+msgid "Reset"
+msgstr "Скінуць"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:107
+msgid "Empty Cache"
+msgstr "Ачысціць кэш"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:108
+msgid "Click this button to empty the image cache. This can be necessary if you changed colors and want your old images to be rendered again:"
+msgstr "Націсніце гэту кнопку, каб ачысціць кэш малюнкаў. Гэта можа быць неабходна, калі вы змянілі колер і жадаеце, каб вашы старыя малюнкі, які можа ўнесці яшчэ раз:"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:109
+msgid "Clear cache"
+msgstr "Ачысціць кэш"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:113
+msgid "User Guide"
+msgstr "Кіраўніцтва"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:115
+msgid "To use this plugin is quite easy. The most simple use is just to to convert formulas into readable images"
+msgstr "Bспользовать гэта ўбудова вельмі лёгка. Самым простым з'яўляецца выкарыстанне толькі для пераўтварэння формул у чытаныя малюнкі"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:119
+#: ../inc/admin_themePage.php:125
+#: ../inc/admin_themePage.php:129
+#: ../inc/admin_themePage.php:135
+#: ../inc/admin_themePage.php:139
+#: ../inc/admin_themePage.php:143
+#: ../inc/admin_themePage.php:149
+#: ../inc/admin_themePage.php:153
+msgid "will be converted to"
+msgstr "будзе конверитировно ў"
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:122
+msgid "If you don't like the size of the text in the images you can adjust it just by passing an additional attribute \"size\""
+msgstr "Калі вам не падабаецца памер тэксту ў малюнках? вы можаце наладзіць яго толькі шляхам прыняцця дадатковых атрыбутаў \"памер\""
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:132
+msgid "In any case there even is an option if you do NOT want you're code to be parsed to an image. Just add the attribute noparse=\"true\""
+msgstr "У любым выпадку, нават з'яўляецца jgwbz калі вы НЕ жадаеце код, які будзе разбірацца для малюнка. Проста дадайце атрыбут noparse=\"true\""
+
+# @ wpmathpublisher
+#: ../inc/admin_themePage.php:146
+msgid "Of course you can combine all attributes:"
+msgstr "Вядома, вы можаце аб'яднаць усе атрыбуты:"
+

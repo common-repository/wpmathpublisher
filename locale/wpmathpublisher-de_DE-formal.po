@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WpMathPublisher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-08 23:39+0100\n"
+"PO-Revision-Date: 2009-10-08 23:42+0100\n"
+"Last-Translator: Timm Severin <timm.forallthestuff@web.de>\n"
+"Language-Team: Developer <wpmathpublisher@kraeuterbruederchen.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: Germany\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: E:\\Users\\Astrodan\\Desktop\\plugin\\\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./..\n"
+
+#: ../wpmathpublisher.php:98
+msgid "WpMathPublisher"
+msgstr "WPMathPublisher"
+
+#: ../wpmathpublisher.php:106
+msgid "WpMathPublisher not yet ready: "
+msgstr "WpMathPublisher ist noch nicht einsatzbereit:"
+
+#: ../wpmathpublisher.php:106
+#, php-format
+msgid "Couldn't access image directory [%s], create it and chmod it to 777."
+msgstr "Konnte nicht auf das Bilderverzeichnis [%s] zugreifen, erstellen Sie es und setzen es auf chmod 777"
+
+#: ../wpmathpublisher.php:158
+msgid "value of red component is invalid"
+msgstr "Wert der roten Komponente ist ungültig"
+
+#: ../wpmathpublisher.php:160
+msgid "value of green component is invalid"
+msgstr "Wert der grünen Komponente ist ungültig"
+
+#: ../wpmathpublisher.php:162
+msgid "value of blue component is invalid"
+msgstr "Wert der blauen Komponente ist ungültig"
+
+#: ../wpmathpublisher.php:164
+msgid "transparency value is invalid"
+msgstr "Transparenz-Wert ist ungütlig"
+
+#: ../inc/admin_themePage.php:9
+msgid "Options resetted to default values"
+msgstr "EInstellungen wurden auf die Standard zurückgesetzt"
+
+#: ../inc/admin_themePage.php:16
+msgid "Cache cleared"
+msgstr "Cache geleert"
+
+#: ../inc/admin_themePage.php:22
+#, php-format
+msgid "Font size must be between %1$d and %2$d"
+msgstr "Schriftgröße muss zwischen %1$d und %2$d liegen"
+
+#: ../inc/admin_themePage.php:24
+msgid "Font:"
+msgstr "Schrift:"
+
+#: ../inc/admin_themePage.php:25
+msgid "Back:"
+msgstr "Hintergrund:"
+
+#: ../inc/admin_themePage.php:26
+msgid "Options:"
+msgstr "Einstellungen:"
+
+#: ../inc/admin_themePage.php:31
+msgid "Update not successfull:"
+msgstr "Update nicht erfolgreich:"
+
+#: ../inc/admin_themePage.php:34
+msgid "Options saved"
+msgstr "Einstellungen gespeichert"
+
+#: ../inc/admin_themePage.php:52
+msgid "WpMathPublisher Design"
+msgstr "WpMathPublisher Design"
+
+#: ../inc/admin_themePage.php:56
+msgid "Save"
+msgstr "Speichern"
+
+#: ../inc/admin_themePage.php:58
+msgid "Information:"
+msgstr "Informationen:"
+
+#: ../inc/admin_themePage.php:60
+msgid "Colors are to be defined in RGB components"
+msgstr "Farben müssen als RGB-Werte angegeben werden"
+
+#: ../inc/admin_themePage.php:62
+msgid "Allowed RGB range is 0 to 255"
+msgstr "Mögliche RGB-Werte gehen von 0 bis 255"
+
+#: ../inc/admin_themePage.php:64
+msgid "Allowed transparency range is from 0 (opaque) to 127 (transparent)"
+msgstr "Erlaubte Transparenz-Werte sind von 0 (komplett undurchsichtig) bis 127 (komplett transparent)"
+
+#: ../inc/admin_themePage.php:66
+msgid "Default image will look like this:"
+msgstr "Die Standarddarstellung wird wie folgt aussehen:"
+
+#: ../inc/admin_themePage.php:69
+msgid "Reset to defaults"
+msgstr "Auf Standardeinstellungen zurücksetzen"
+
+#: ../inc/admin_themePage.php:71
+msgid "Font color"
+msgstr "Schriftfarbe"
+
+#: ../inc/admin_themePage.php:74
+#: ../inc/admin_themePage.php:90
+msgid "Red:"
+msgstr "Rot:"
+
+#: ../inc/admin_themePage.php:77
+#: ../inc/admin_themePage.php:93
+msgid "Green:"
+msgstr "Grün:"
+
+#: ../inc/admin_themePage.php:80
+#: ../inc/admin_themePage.php:96
+msgid "Blue:"
+msgstr "Blau:"
+
+#: ../inc/admin_themePage.php:83
+#: ../inc/admin_themePage.php:99
+msgid "Transparency:"
+msgstr "Transparenz:"
+
+#: ../inc/admin_themePage.php:87
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: ../inc/admin_themePage.php:103
+msgid "Font Options"
+msgstr "Schrift Einstellungen"
+
+#: ../inc/admin_themePage.php:106
+msgid "Font size:"
+msgstr "Schriftgröße:"
+
+#: ../inc/admin_themePage.php:112
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: ../inc/admin_themePage.php:114
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: ../inc/admin_themePage.php:121
+msgid "Empty Cache"
+msgstr "Cache leeren"
+
+#: ../inc/admin_themePage.php:122
+msgid "Click this button to empty the image cache. This can be necessary if you changed colors and want your old images to be rendered again:"
+msgstr "Hier klicken um den Cache zu leeren. Dies kann nötig sein, wenn Sie die Farben ändern wollen und die alten Bilder mit den neuen Farben neu erstellt weden sollen"
+
+#: ../inc/admin_themePage.php:123
+msgid "Clear cache"
+msgstr "Cache leeren"
+
+#: ../inc/admin_themePage.php:127
+msgid "User Guide"
+msgstr "Hilfe"
+
+#: ../inc/admin_themePage.php:129
+msgid "To use this plugin is quite easy. The most simple use is just to to convert formulas into readable images"
+msgstr "Die Benutzung des Plugins ist recht simpel, die einfachste Anwendung ist es einfach Formeln in lesbare Bilder umwandeln zu lassen"
+
+#: ../inc/admin_themePage.php:133
+#: ../inc/admin_themePage.php:139
+#: ../inc/admin_themePage.php:143
+#: ../inc/admin_themePage.php:149
+#: ../inc/admin_themePage.php:153
+#: ../inc/admin_themePage.php:157
+#: ../inc/admin_themePage.php:163
+#: ../inc/admin_themePage.php:167
+msgid "will be converted to"
+msgstr "wird umgewandelt zu"
+
+#: ../inc/admin_themePage.php:136
+msgid "If you don't like the size of the text in the images you can adjust it just by passing an additional attribute \"size\""
+msgstr "Wenn Ihnen die Größe des Textes in einem speziellen Bild nicht passt, können Sie es leicht durch das optionale Attribut \"size\" anpassen"
+
+#: ../inc/admin_themePage.php:146
+msgid "In any case there even is an option if you do NOT want you're code to be parsed to an image. Just add the attribute noparse=\"true\""
+msgstr "Für alle Fälle gibt es sogar eine Option, mit der Sie verhindern können, dass Code geparst wird: Das Attribut noparse=\"true\" verhindert dies"
+
+#: ../inc/admin_themePage.php:160
+msgid "Of course you can combine all attributes:"
+msgstr "Natürlich können Sie alle Attribute kombinieren, wie es Ihnen gerade passt:"
+
+#~ msgid "Colors without transparency"
+#~ msgstr "Ausgewählte Farben ohne Transparenz"
+

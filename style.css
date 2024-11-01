@@ -1,0 +1,163 @@
+@CHARSET "ISO-8859-1";
+
+div.wrap table.editform tr td input {
+	text-align: right;
+	width: 100px;
+}
+
+div.wrap table.editform tr td.description {
+	width: 150px;
+}
+
+div.wrap div#wpmp_preview {
+	font-style: italic;
+	font-size: 8pt; 
+	float: right;
+	border: 1px dashed #000000;
+	padding: 5px;
+	width: 250px;
+}
+
+div.wrap div#wpmp_preview div {
+	text-align: center;
+	width: 100%;
+}
+
+div.wrap div#wpmp_preview img {
+	margin: 0 auto;
+	border: 1px solid #000000;
+	text-align: center;
+}
+
+div.updated h4 {
+	margin: 5px 0 5px 0;
+}
+
+div.updated p {
+	margin-left: 50px;
+}
+
+div.updated ul {
+	margin-left: 60px;
+	list-style-type: none;
+}
+
+div.updated li {
+	font-style: italic;
+	padding-left: 5px;
+}
+
+div.updated li.head {
+	font-style: normal;
+	padding: 0;
+	margin: 2px;
+}
+
+div.updated li:before {
+	content: '» ';
+}
+
+div.updated li.head:before {
+	content: '';
+}
+
+div#wpmp_send {
+	margin-top: 20px;
+	margin-left: 90px;
+}
+
+div#wpmp_guide div {
+	font-size: 8pt;
+	line-height: 20px;
+	margin: 0 0 50px 0;
+	padding: 0 0 0 40px;
+	position: relative;
+	
+	background-image: url('./example.png');
+	background-position: left center;
+	background-repeat: no-repeat;
+}
+
+.comment {
+	font-size: 70%;
+	font-style: italic;
+}
+
+/* slider css code
+## removed unnecessary parts ##
+ */
+
+/*	Default stylesheet for the Carpe Slider
+	By Tom Hermansson Snickars                 
+	2005-12-17 version 1.5
+	Copyright CARPE Design                     
+	carpe.ambiprospect.com
+*/
+*.carpe_horizontal_slider_display_combo {
+	clear: left;
+	margin: 0;
+}
+*.carpe_horizontal_slider_track {
+	background-color: #bbb;
+	color: #333;
+	width: 148px;
+	float: left;
+	margin: 0;
+	line-height: 0px;
+	font-size: 0px;
+	text-align: left;
+	padding: 4px;
+	border: 1px solid;
+	border-color: #ddd #999 #999 #ddd;
+}
+*.carpe_horizontal_slider_track *.carpe_slider_slit {
+	background-color: #333;
+	color: #ccc;
+	width: 138px;
+	height: 2px;
+	margin: 4px 4px 2px 4px;
+	line-height: 0px;
+	position: absolute;
+	z-index: 1;
+	border: 1px solid;
+	border-color: #999 #ddd #ddd #999;
+}
+*.carpe_horizontal_slider_track *.carpe_slider {
+	width: 16px;
+	background-color: #666;
+	color: #333;
+	position: relative;
+	margin: 0;
+	height: 8px;
+	z-index: 1;
+	line-height: 0px;
+	font-size: 0px;
+	text-align: left;
+	border: 2px solid;
+	border-color: #999 #333 #333 #999;
+}
+*.carpe_slider_display_holder {
+	background-color: #bbb;
+	color: #333;
+	width: 34px;
+	margin: 0;
+	float: left;
+	padding: 0 2px 0 0;
+	height: 20px;
+	text-align: right;
+	border: 1px solid;
+	border-color: #ddd #999 #999 #ddd;
+}
+.carpe_slider_display {
+	background-color: #bbb;
+	color: #333;
+	padding: 3px 1px 0 0;
+	width: 30px !important;
+	text-align: right !important;
+	font-size: 11px !important;
+	line-height: 10px !important;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-weight: bold;
+	border: 0 !important;
+	cursor: default;
+}
